@@ -1,3 +1,2 @@
 # Bart Simpson #
-
-Bart ist kein fleißiger Schüler.  
+Bart ist kein fleissiger Schueler.  
