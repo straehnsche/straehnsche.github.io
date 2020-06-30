@@ -1,1 +1,2 @@
-Hier entsteht gerade eine Webseite zu meinem Lieblingscharakter!
+# Bart Simpson #
+Bart ist kein fleissiger Schueler.  
